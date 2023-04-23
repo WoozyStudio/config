@@ -1,0 +1,5 @@
+# automatically normalize line endings
+* text=auto
+
+*.json linguist-detectable=true
+test/**/*.json linguist-vendored=true
